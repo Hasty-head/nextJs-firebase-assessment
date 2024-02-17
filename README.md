@@ -1,0 +1,1 @@
+# nextJs-firebase-assessment
